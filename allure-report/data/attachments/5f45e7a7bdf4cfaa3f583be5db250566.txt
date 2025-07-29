@@ -1,0 +1,4 @@
+Navigating to homepage
+Title validated successfully
+Page title is: Add/Remove Elements
+Test finished.
