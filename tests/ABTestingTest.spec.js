@@ -16,6 +16,3 @@ test('abtesting page validation', async ({ page }) => {
     expect(validTitle).toBe(true);
 
 }); 
-
-
-
