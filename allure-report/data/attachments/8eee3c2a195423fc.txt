@@ -1,0 +1,3 @@
+Navigating to homepage
+Title validated successfully
+Test finished.
